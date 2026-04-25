@@ -35,7 +35,7 @@ min = -5
 abs(min) #abs means absolute number changes negative number to postive
 print(abs(min))
 
-pw = 2 ** 8 # multiply to the power 
+pw = 2 ** 8 # exponent - multiply to the power 
 print(pw)
 
 new_num = 3.454
